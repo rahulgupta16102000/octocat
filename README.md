@@ -1,4 +1,4 @@
- ### hey there , i am rahul kumar gupta 👋
+ ### Hey there , i am Rahul Kumar Gupta 👋
 --  👯 I’m currently studying at NIT HAMIRPUR. <br>
 -- 🔭 I’m currently working on My Portfolio Website.<br>
 -- 🌱 I’m currently learning Full stack web devlopment and data structure.<br>
