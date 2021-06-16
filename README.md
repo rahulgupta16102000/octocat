@@ -3,9 +3,7 @@
 -- 🔭 I’m currently working on My Portfolio Website.<br>
 -- 🌱 I’m currently learning Full stack web devlopment and data structure.<br>
 -- :tea: i love to drink tea.<br>
---  📫    [Linkedin](  https://www.linkedin.com/in/rahul-gupta-989220173/)
-Linkedin : https://www.linkedin.com/in/rahul-gupta-989220173/ <br>
- -- visit on  : 
- [hackerRank](  https://www.hackerrank.com/hirahul7615)
+--  📫    [Linkedin](  https://www.linkedin.com/in/rahul-gupta-989220173/) <br>
+ -- visit on  : [hackerRank](  https://www.hackerrank.com/hirahul7615)            [Leetcode](  https://leetcode.com/rahulgupta16/)  
             
             
