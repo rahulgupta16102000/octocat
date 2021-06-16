@@ -5,5 +5,5 @@
 -- :tea: i love to drink tea.<br>
 --  📫 Linkedin : https://www.linkedin.com/in/rahul-gupta-989220173/ <br>
  -- visit on  : <br>
-             geeksforgeeks : https://auth.geeksforgeeks.org/user/hirahul7615/practice/ <br>
+             
             hackerRank  :   https://www.hackerrank.com/hirahul7615
